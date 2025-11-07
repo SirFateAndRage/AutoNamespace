@@ -1,0 +1,12 @@
+{
+  "name": "com.sirfateandrage.autonamespace",
+  "version": "1.0.0",
+  "displayName": "Auto-Namepace",
+  "description": "A Unity tool that automatically generates the namespace of a script based on its file path, ensuring a consistent and organized project structure.",
+  "unity": "6000.2",
+  "author": {
+    "name": "SirFateAndRage",
+    "email": "milanicristian94@gmail.com",
+    "url": "https://github.com/SirFateAndRage"
+  }
+}
